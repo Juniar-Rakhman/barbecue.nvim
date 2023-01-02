@@ -1,7 +1,7 @@
 ---@alias barbecue.Theme table<string, table>
 ---@type barbecue.Theme
 local M = {
-  normal = { background = "#7a7a7a" },
+  normal = { background = "#282c34" },
 
   ellipsis = { foreground = "LightGrey" },
   separator = { foreground = "LightGrey" },
